@@ -1,4 +1,4 @@
-# 微信PCHOOK。
+# 微信PCHOOK
 ![](https://github.com/weixinbao/WeChatPcHook/blob/master/pchook.png) <br/>
 
 # 声明
